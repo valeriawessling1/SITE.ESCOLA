@@ -42,3 +42,19 @@
 .escola-titulo{
     padding: 24px 0;
 }
+.estudante-titulo{ 
+    text-align: center;
+    padding: 50px;
+}
+.materias {
+    background-image: linear-gradient(#93e092, #149100 );
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px O;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
